@@ -1,0 +1,25 @@
+{
+  "name": "franjs.com",
+  "version": "1.0.0",
+  "description": "my page",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franko1307/franjs.com.git"
+  },
+  "author": "Fran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franko1307/franjs.com/issues"
+  },
+  "homepage": "https://github.com/Franko1307/franjs.com#readme"
+}
