@@ -12,5 +12,5 @@ app.set('view engine', 'ejs');
 require('./routes/routes.js')(app);
 
 http.listen(8080,'localhost',function() {
-  console.log('app.js is running on localhost:8080')
-})
+    console.log('app.js is running on localhost:8080');
+});

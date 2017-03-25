@@ -1,0 +1,2803 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-03-21T23:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/30383104",
+      "properties": {
+        "@id": "node/30383104",
+        "contact:website": "http://cancun.gob.mx/",
+        "ele": "11",
+        "is_in": "Mexico, Quintana Roo, resorts",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "is_in:state": "Quintana Roo",
+        "name": "Cancún",
+        "name:ru": "Канкун",
+        "place": "city",
+        "population": "586288",
+        "population:census:2005": "572973",
+        "population:census:2010": "661176",
+        "wikidata": "Q8969",
+        "wikipedia": "es:Cancún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.82505,
+          21.161829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/59058448",
+      "properties": {
+        "@id": "node/59058448",
+        "ele": "1548",
+        "is_in": "Mexico, Morelos",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "is_in:state": "Morelos",
+        "name": "Cuernavaca",
+        "name:en": "Cuernavaca",
+        "name:es": "Cuernavaca",
+        "name:pl": "Cuernavaca",
+        "name:ru": "Куэрнавака",
+        "name:uk": "Куернавака",
+        "old_name": "Cuauhnāhuac",
+        "place": "city",
+        "population": "332197",
+        "state_capital": "yes",
+        "wikipedia": "es:Cuernavaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2342282,
+          18.9218274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62270270",
+      "properties": {
+        "@id": "node/62270270",
+        "admin_level": "2",
+        "alt_name:vi": "Thành phố Mê-hi-cô",
+        "capital": "yes",
+        "capital_ISO3166-1": "yes",
+        "date:population": "2015",
+        "ele": "2250",
+        "importance": "international",
+        "is_in": "Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "is_in:iso_3166_2": "MX-DFE",
+        "name": "Ciudad de México",
+        "name:ace": "Banda Meksiko",
+        "name:af": "Meksikostad",
+        "name:am": "ሜክሲኮ ከተማ",
+        "name:an": "Ciudat de Mexico",
+        "name:ang": "Mexicoburg",
+        "name:ar": "مدينة مكسيكو",
+        "name:arz": "ميكسيكو سيتى",
+        "name:ast": "Ciudá de Méxicu",
+        "name:ay": "Mïxiku marka",
+        "name:az": "Mexiko",
+        "name:ba": "Мехико",
+        "name:bat-smg": "Meksėks",
+        "name:bcl": "Mexico",
+        "name:be": "Мехіка",
+        "name:be-tarask": "Мэхіка",
+        "name:bg": "Мексико",
+        "name:bn": "মেক্সিকো সিটি",
+        "name:bo": "མེག་སི་ཀོ་གྲོང་།",
+        "name:br": "Kêr-Vec'hiko",
+        "name:bs": "Ciudad de México",
+        "name:ca": "Ciutat de Mèxic",
+        "name:ckb": "مەکسیکۆ سیتی",
+        "name:cs": "Ciudad de México",
+        "name:cv": "Мехико",
+        "name:cy": "Dinas Mexico",
+        "name:da": "Mexico City",
+        "name:de": "Mexiko-Stadt",
+        "name:diq": "Meksiko City",
+        "name:el": "Πόλη του Μεξικού",
+        "name:en": "Mexico City",
+        "name:eo": "Meksik-urbo",
+        "name:es": "Ciudad de México",
+        "name:et": "México",
+        "name:eu": "Mexiko Hiria",
+        "name:ext": "Ciá de Méjicu",
+        "name:fa": "مکزیکو سیتی",
+        "name:fi": "México",
+        "name:fiu-vro": "México",
+        "name:fo": "Meksikobýur",
+        "name:fr": "Mexico",
+        "name:fy": "Meksiko-Stêd",
+        "name:ga": "Cathair Mheicsiceo",
+        "name:gd": "Meagsago",
+        "name:gl": "Cidade de México",
+        "name:gn": "Méjiko táva",
+        "name:haw": "Mēkiko D.F.",
+        "name:he": "מקסיקו סיטי",
+        "name:hi": "मेक्सिको नगर",
+        "name:hif": "Mexico City",
+        "name:hr": "Ciudad de México",
+        "name:hsb": "Mexiko-město",
+        "name:ht": "Meksiko",
+        "name:hu": "Mexikóváros",
+        "name:hy": "Մեխիկո",
+        "name:ia": "Citate de Mexico",
+        "name:id": "Ciudad de México",
+        "name:io": "México",
+        "name:is": "Mexíkóborg",
+        "name:it": "Città del Messico",
+        "name:ja": "メキシコシティ",
+        "name:jbo": "mexygu'e tcadu",
+        "name:jv": "Mexico City",
+        "name:ka": "მეხიკო",
+        "name:kk": "Мехико",
+        "name:kl": "Mexico City",
+        "name:kn": "ಮೆಕ್ಸಿಕೋ ನಗರ",
+        "name:ko": "멕시코시티",
+        "name:ku": "Meksîko",
+        "name:kw": "Cita Mexico",
+        "name:la": "Mexicopolis",
+        "name:lad": "Sivdad de Meksiko",
+        "name:lij": "Çittæ do Mescico",
+        "name:lmo": "Cità del Messich",
+        "name:ln": "Mbóka ya Mexiko",
+        "name:lt": "Meksikas",
+        "name:lv": "Mehiko",
+        "name:mg": "Mexico",
+        "name:mhr": "Мехико",
+        "name:mk": "Мексико",
+        "name:ml": "മെക്സിക്കോ സിറ്റി",
+        "name:mn": "Мехико",
+        "name:mr": "मेक्सिको सिटी",
+        "name:mrj": "Мехико",
+        "name:ms": "Bandar Raya Mexico",
+        "name:nah": "Āltepētl Mēxihco",
+        "name:nl": "Mexico-stad",
+        "name:nn": "Mexico by",
+        "name:no": "Mexico by",
+        "name:nov": "Mexiko Urbe",
+        "name:nv": "Méhigoʼ sídii",
+        "name:oc": "Ciutat de Mexic",
+        "name:os": "Мехико",
+        "name:pap": "Ciudad di Mexico",
+        "name:pl": "Meksyk",
+        "name:pms": "Sità dël Méssich",
+        "name:pnb": "میکسیکو شہر",
+        "name:pt": "Cidade do México",
+        "name:qu": "Mishiku llaqta",
+        "name:rm": "Citad da Mexico",
+        "name:ro": "Ciudad de México",
+        "name:ru": "Мехико",
+        "name:rue": "Мексіко Сіті",
+        "name:sah": "Мехико",
+        "name:sc": "Tzitade de su Mèssico",
+        "name:scn": "Cità dû Mèssicu",
+        "name:sco": "Mexico Ceety",
+        "name:se": "México",
+        "name:sh": "Ciudad de Mexico",
+        "name:simple": "Mexico City",
+        "name:sk": "Mexiko",
+        "name:sl": "Ciudad de México",
+        "name:sm": "Mexico Siti",
+        "name:sq": "Meksiko",
+        "name:sr": "Мексико",
+        "name:sv": "Mexico City",
+        "name:sw": "Mexico",
+        "name:szl": "Meksyk",
+        "name:ta": "மெக்சிகோ நகரம்",
+        "name:tg": "Мехико",
+        "name:th": "เม็กซิโกซิตี",
+        "name:tk": "Mehiko",
+        "name:tl": "Lungsod ng Mehiko",
+        "name:tr": "Meksika",
+        "name:tt": "Мехико",
+        "name:udm": "Мехико",
+        "name:ug": "مېكسىكا شەھىرى",
+        "name:uk": "Мехіко",
+        "name:ur": "میکسیکو شہر",
+        "name:uz": "Mexiko shahri",
+        "name:vec": "Sità del Mèsico",
+        "name:vi": "Thành phố México",
+        "name:vo": "Ciudad de México",
+        "name:war": "Syudad han Mehiko",
+        "name:xmf": "მეხიკო",
+        "name:yi": "מעקסיקא שטאט",
+        "name:yo": "Ìlú Mẹ́ksíkò",
+        "name:zh": "墨西哥城",
+        "name:zh-min-nan": "México Chhī",
+        "name:zh-yue": "墨西哥城",
+        "place": "city",
+        "population": "8555500",
+        "rank": "0",
+        "ref:LOCODE": "MXMEX",
+        "wikipedia": "es:México"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1333416,
+          19.4326009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/122136160",
+      "properties": {
+        "@id": "node/122136160",
+        "addr:postcode": "22850",
+        "is_in": "Baja California, Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Ensenada",
+        "name:en": "Ensenada",
+        "name:ru": "Энсенада",
+        "place": "city",
+        "population": "279765",
+        "ref:LOCODE": "MXESE",
+        "website": "http://www.ensenada.gob.mx/",
+        "wikidata": "Q656189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6248246,
+          31.860742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213601095",
+      "properties": {
+        "@id": "node/213601095",
+        "is_in": "Baja California, Mexico",
+        "is_in:continent": "North America",
+        "name": "Mexicali",
+        "name:en": "Mexicali",
+        "name:es": "Mexicali",
+        "name:pl": "Mexicali",
+        "name:ru": "Мехикали",
+        "name:uk": "Мехікалі",
+        "place": "city",
+        "population": "936145",
+        "postal_code": "21000",
+        "state_capital": "yes",
+        "website": "www.mexicali.gob.mx",
+        "wikidata": "Q199440",
+        "wikipedia": "es:Mexicali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4440698,
+          32.6200699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/245792117",
+      "properties": {
+        "@id": "node/245792117",
+        "alt_name": "Heróica Puebla de Zaragoza",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "int_name": "Puebla",
+        "is_in": "Puebla, Mexico",
+        "name": "Puebla",
+        "name:en": "Puebla",
+        "name:es": "Puebla de Zaragoza",
+        "name:pl": "Puebla",
+        "name:ru": "Пуэбла-де-Сарагоса",
+        "name:uk": "Пуебла",
+        "old_name": "Puebla de los Ángeles",
+        "place": "city",
+        "population": "1434062",
+        "source:population": "INEGI 2010",
+        "state_capital": "yes",
+        "whc:inscription_date": "1987",
+        "wikipedia": "es:Puebla de Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1987274,
+          19.043671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/253071476",
+      "properties": {
+        "@id": "node/253071476",
+        "name": "San Miguel de Cozumel",
+        "place": "city",
+        "short_name": "Cozumel",
+        "wikidata": "Q929946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9487848,
+          20.5095973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/266478791",
+      "properties": {
+        "@id": "node/266478791",
+        "is_in": "Baja California Sur, Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "La Paz",
+        "name:en": "La Paz",
+        "name:es": "La Paz",
+        "name:pl": "La Paz",
+        "name:ru": "Ла-Пас",
+        "name:uk": "Ла-Пас",
+        "place": "city",
+        "state_capital": "yes",
+        "wikidata": "Q214215",
+        "wikipedia": "es:La Paz (Baja California Sur)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.323732,
+          24.149038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/268380974",
+      "properties": {
+        "@id": "node/268380974",
+        "is_in": "Mexico, Tlaxcala, Tlaxcala",
+        "is_in:municipality": "Tlaxcala",
+        "is_in:state": "Tlaxcala",
+        "name": "Tlaxcala",
+        "name:en": "Tlaxcala",
+        "name:es": "Tlaxcala de Xicohténcatl",
+        "name:pl": "Tlaxcala",
+        "name:ru": "Тласкала-де-Хикотенкатль",
+        "name:uk": "Тлашкала",
+        "official_name": "Tlaxcala de Xicohténcatl",
+        "old_name": "Tlaxcallān Xīcohtēncatl",
+        "place": "city",
+        "population": "14692",
+        "state_capital": "yes",
+        "wikidata": "Q614072",
+        "wikipedia": "es:Tlaxcala de Xicohténcatl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2386138,
+          19.3167101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269905615",
+      "properties": {
+        "@id": "node/269905615",
+        "alt_name": "Querétaro",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "name": "Santiago de Querétaro",
+        "name:en": "Querétaro",
+        "name:es": "Santiago de Querétaro",
+        "name:pl": "Querétaro",
+        "name:ru": "Сантьяго-де-Керетаро",
+        "name:uk": "Сантьяго-де-Керетаро",
+        "note": "Population includes metropolitan area",
+        "place": "city",
+        "population": "1097025",
+        "population:date": "2010",
+        "state_capital": "yes",
+        "whc:inscription_date": "1996",
+        "wikipedia": "es:Santiago de Querétaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3879904,
+          20.5878372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269905839",
+      "properties": {
+        "@id": "node/269905839",
+        "is_in": "San Luis Potosí, Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "San Luis Potosí",
+        "name:en": "San Luis Potosi",
+        "name:es": "San Luis Potosí",
+        "name:pl": "Сан-Луїс-Потосі",
+        "name:ru": "Сан-Луис-Потоси",
+        "name:uk": "Сан-Луїс-Потосі",
+        "place": "city",
+        "state_capital": "yes",
+        "wikipedia": "es:San Luis Potosí (San Luis Potosí)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9763993,
+          22.1516472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269906564",
+      "properties": {
+        "@id": "node/269906564",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "is_in": "Zacatecas, Mexico",
+        "name": "Zacatecas",
+        "name:en": "Zacatecas",
+        "name:es": "Zacatecas",
+        "name:pl": "Zacatecas",
+        "name:ru": "Сакатекас",
+        "name:uk": "Сакатекас",
+        "place": "city",
+        "population": "129011",
+        "population:date": "2010",
+        "state_capital": "yes",
+        "whc:inscription_date": "1993",
+        "wikipedia": "es:Zacatecas (Zacatecas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5722484,
+          22.7752169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269907341",
+      "properties": {
+        "@id": "node/269907341",
+        "is_in": "Mexico",
+        "name": "Irapuato",
+        "place": "city",
+        "population": "380941",
+        "population:date": "2010",
+        "wikidata": "Q816845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3521052,
+          20.6758761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269907342",
+      "properties": {
+        "@id": "node/269907342",
+        "is_in": "Mexico",
+        "name": "Salamanca",
+        "place": "city",
+        "population": "160169",
+        "population:date": "2010",
+        "wikidata": "Q1801321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.192444,
+          20.571358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269907416",
+      "properties": {
+        "@id": "node/269907416",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "is_in": "Guanajuato, Mexico",
+        "name": "Guanajuato",
+        "name:en": "Guanajuato",
+        "name:es": "Guanajuato",
+        "name:pl": "Guanajuato",
+        "name:ru": "Гуанахуато",
+        "name:uk": "Ґуанахуато",
+        "place": "city",
+        "population": "72237",
+        "population:date": "2010",
+        "state_capital": "yes",
+        "whc:inscription_date": "1988",
+        "wikipedia": "es:Guanajuato (Guanajuato)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2528698,
+          21.015851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269908777",
+      "properties": {
+        "@id": "node/269908777",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "is_in": "Tabasco,México,North America",
+        "name": "Villahermosa",
+        "name:en": "Villahermosa",
+        "name:es": "Villahermosa",
+        "name:pl": "Villahermosa",
+        "name:ru": "Вильяэрмоса",
+        "name:uk": "Віяермоса",
+        "place": "city",
+        "state_capital": "yes",
+        "wikidata": "Q210886",
+        "wikipedia": "es:Villahermosa (Tabasco)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.917505,
+          17.99571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269908857",
+      "properties": {
+        "@id": "node/269908857",
+        "admin_level": "4",
+        "alt_name": "San Fransciso de Campeche",
+        "boundary": "administrative",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:state": "Campeche",
+        "name": "Campeche",
+        "name:en": "Campeche",
+        "name:es": "Campeche",
+        "name:pl": "Campeche",
+        "name:ru": "Сан-Франсиско-де-Кампече",
+        "name:uk": "Кампече",
+        "place": "city",
+        "population": "211671",
+        "state_capital": "yes",
+        "website": "www.municipiodecampeche.gob.mx/",
+        "whc:inscription_date": "1999",
+        "wikidata": "Q61301",
+        "wikipedia": "es:San Francisco de Campeche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.536208,
+          19.844265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269908858",
+      "properties": {
+        "@id": "node/269908858",
+        "ele": "7",
+        "name": "Mérida",
+        "name:en": "Mérida",
+        "name:es": "Mérida",
+        "name:pl": "Mérida",
+        "name:ru": "Мерида",
+        "name:uk": "Меріда",
+        "place": "city",
+        "population": "975000",
+        "state_capital": "yes",
+        "wikidata": "Q165204",
+        "wikipedia": "es:Mérida (Yucatán)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6237,
+          20.967141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269909227",
+      "properties": {
+        "@id": "node/269909227",
+        "ele": "0",
+        "is_in": "Yucatán;México;North America",
+        "name": "Progreso",
+        "name:ru": "Прогресо",
+        "place": "city",
+        "population": "37369",
+        "ref:LOCODE": "MXPGO",
+        "wikidata": "Q657637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6638354,
+          21.2839331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269910244",
+      "properties": {
+        "@id": "node/269910244",
+        "is_in": "Mexico, Quintana Roo",
+        "name": "Chetumal",
+        "name:en": "Chetumal",
+        "name:es": "Chetumal",
+        "name:pl": "Chetumal",
+        "name:ru": "Четумаль",
+        "name:uk": "Четумаль",
+        "place": "city",
+        "population": "130000",
+        "state_capital": "yes",
+        "wikidata": "Q459553",
+        "wikipedia": "es:Chetumal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.304164,
+          18.498394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269911529",
+      "properties": {
+        "@id": "node/269911529",
+        "is_in": "Chiapas, México",
+        "name": "Tuxtla Gutiérrez",
+        "name:en": "Tuxtla Gutiérrez",
+        "name:es": "Tuxtla Gutiérrez",
+        "name:pl": "Tuxtla Gutiérrez",
+        "name:ru": "Тустла-Гутьеррес",
+        "name:uk": "Тустла-Ґутьєррес",
+        "place": "city",
+        "state_capital": "yes",
+        "wikidata": "Q207429",
+        "wikipedia": "en:Tuxtla Gutiérrez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.115959,
+          16.753801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269912387",
+      "properties": {
+        "@id": "node/269912387",
+        "admin_level": "4",
+        "ele": "1557",
+        "is_in": "Oaxaca, Mexico",
+        "name": "Oaxaca",
+        "name:en": "Oaxaca",
+        "name:es": "Oaxaca de Juárez",
+        "name:pl": "Oaxaca",
+        "name:ru": "Оахака-де-Хуарес",
+        "name:uk": "Оахака-де-Хуарес",
+        "official_name": "Oaxaca de Juárez",
+        "place": "city",
+        "population": "255029",
+        "state_capital": "yes",
+        "wikipedia": "es:Oaxaca de Juárez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7253575,
+          17.0604663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269913250",
+      "properties": {
+        "@id": "node/269913250",
+        "addr:postcode": "39300",
+        "alt_name": "Acapulco",
+        "is_in": "Guerrero, México",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Acapulco de Juárez",
+        "name:en": "Acapulco",
+        "name:fi": "Acapulco",
+        "name:ru": "Акапулько",
+        "name:uk": "Акапулько",
+        "place": "city",
+        "population": "673479",
+        "website": "http://www.acapulco.gob.mx/",
+        "wikidata": "Q81398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8768321,
+          16.8602906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269913428",
+      "properties": {
+        "@id": "node/269913428",
+        "is_in": "Mexico, Guerrero",
+        "name": "Chilpancingo",
+        "name:en": "Chilpancingo",
+        "name:es": "Chilpancingo de los Bravo",
+        "name:pl": "Chilpancingo de los Bravo",
+        "name:ru": "Чильпансинго-де-лос-Браво",
+        "name:uk": "Чільпансінґо",
+        "official_name": "Chilpancingo de los Bravo",
+        "place": "city",
+        "state_capital": "yes",
+        "wikipedia": "es:Chilpancingo de los Bravo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5048416,
+          17.5542149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269914302",
+      "properties": {
+        "@id": "node/269914302",
+        "is_in": "Mexico, Estado de Mexico",
+        "name": "Toluca de Lerdo",
+        "name:en": "Toluca",
+        "name:es": "Toluca de Lerdo",
+        "name:pl": "Toluca",
+        "name:ru": "Толука-де-Лердо",
+        "name:uk": "Толука-де-Лердо",
+        "old_name": "Tōllohcān",
+        "place": "city",
+        "state_capital": "yes",
+        "wikipedia": "es:Toluca de Lerdo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6569007,
+          19.292545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269914489",
+      "properties": {
+        "@id": "node/269914489",
+        "capital": "4",
+        "ele": "1920",
+        "heritage": "1",
+        "heritage:operator": "whc",
+        "is_in": "Michoacán, México",
+        "is_in:iso_3166_2": "MX-MIC",
+        "name": "Morelia",
+        "name:ar": "موريليا",
+        "name:bg": "Морелия",
+        "name:en": "Morelia",
+        "name:es": "Morelia",
+        "name:hu": "Morelia",
+        "name:ja": "モレリア",
+        "name:ka": "მორელია",
+        "name:lt": "Morelija",
+        "name:pl": "Morelia",
+        "name:ru": "Морелия",
+        "name:sr": "Морелија",
+        "name:sw": "Morelia, Michoacán",
+        "name:uk": "Морелія",
+        "name:war": "Morelia, Michoacán",
+        "name:zh": "莫雷利亚",
+        "place": "city",
+        "population": "597511",
+        "state_capital": "yes",
+        "whc:inscription_date": "1991",
+        "wikipedia": "es:Morelia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1923188,
+          19.7027684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/269914773",
+      "properties": {
+        "@id": "node/269914773",
+        "is_in": "Mexico, Michoacán",
+        "name": "Uruapan",
+        "name:ru": "Уруапан-дэль-Прогрессо",
+        "place": "city",
+        "population": "264439",
+        "wikidata": "Q399270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.06309,
+          19.4210695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/272109451",
+      "properties": {
+        "@id": "node/272109451",
+        "is_in": "Hidalgo, México",
+        "name": "Pachuca de Soto",
+        "name:en": "Pachuca",
+        "name:es": "Pachuca de Soto",
+        "name:pl": "Pachuca",
+        "name:ru": "Пачука-де-Сото",
+        "name:uk": "Пачука-де-Сото",
+        "old_name": "Pachyohcān",
+        "place": "city",
+        "state_capital": "yes",
+        "wikidata": "Q160750",
+        "wikipedia": "es:Pachuca de Soto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7413535,
+          20.1165413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273584290",
+      "properties": {
+        "@id": "node/273584290",
+        "name": "Tampico",
+        "name:ru": "Тампико",
+        "place": "city",
+        "population": "297284",
+        "website": "http://www.tampico.gob.mx/",
+        "wikipedia": "es:Tampico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8463662,
+          22.2170473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273587922",
+      "properties": {
+        "@id": "node/273587922",
+        "is_in": "Chihuahua, Mexico",
+        "is_in:continent": "North America",
+        "name": "Chihuahua",
+        "name:en": "Chihuahua",
+        "name:es": "Chihuahua",
+        "name:pl": "Chihuahua",
+        "name:ru": "Чиуауа",
+        "name:uk": "Чіуауа",
+        "place": "city",
+        "population": "809232",
+        "state_capital": "yes",
+        "wikidata": "Q61302",
+        "wikipedia": "es:Chihuahua (Chihuahua)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0749781,
+          28.660574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273589239",
+      "properties": {
+        "@id": "node/273589239",
+        "addr:postcode": "83000",
+        "is_in": "Sonora, Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Hermosillo",
+        "name:en": "Hermosillo",
+        "name:es": "Hermosillo",
+        "name:pl": "Hermosillo",
+        "name:ru": "Эрмосильо",
+        "name:uk": "Ермосійо",
+        "place": "city",
+        "population": "715061",
+        "state_capital": "yes",
+        "website": "http://www.hermosillo.gob.mx/",
+        "wikidata": "Q189138",
+        "wikipedia": "es:Hermosillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9612378,
+          29.0894152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273589697",
+      "properties": {
+        "@id": "node/273589697",
+        "addr:postcode": "85400",
+        "is_in:continent": "North America",
+        "name": "Guaymas",
+        "name:en": "Guaymas",
+        "name:ru": "Гуаймас",
+        "place": "city",
+        "population": "113082",
+        "website": "http://www.guaymas.gob.mx/",
+        "wikidata": "Q985521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8994059,
+          27.9216441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273589866",
+      "properties": {
+        "@id": "node/273589866",
+        "is_in": "Sonora, Mexico",
+        "is_in:continent": "North America",
+        "name": "Ciudad Obregon",
+        "place": "city",
+        "wikipedia": "en:Ciudad Obregón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9337782,
+          27.4846619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273590361",
+      "properties": {
+        "@id": "node/273590361",
+        "name": "Los Mochis",
+        "name:en": "Los Mochis",
+        "name:ru": "Лос-Мочис",
+        "place": "city",
+        "wikidata": "Q752460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.990188,
+          25.7928058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273590692",
+      "properties": {
+        "@id": "node/273590692",
+        "is_in": "Sinaloa, Mexico",
+        "is_in:continent": "North America",
+        "name": "Culiacán",
+        "name:en": "Culiacán",
+        "name:es": "Culiacán",
+        "name:pl": "Culiacán",
+        "name:ru": "Кульякан",
+        "name:uk": "Кульякан",
+        "official_name": "Culiacán Rosales",
+        "place": "city",
+        "state_capital": "yes",
+        "wikidata": "Q211760",
+        "wikipedia": "es:Culiacán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3930507,
+          24.8017193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273592234",
+      "properties": {
+        "@id": "node/273592234",
+        "addr:postcode": "28000",
+        "is_in": "Colima, Mexico",
+        "name": "Colima",
+        "name:en": "Colima",
+        "name:es": "Colima",
+        "name:pl": "Colima",
+        "name:ru": "Колима",
+        "name:uk": "Коліма",
+        "old_name": "Cōlimān",
+        "place": "city",
+        "population": "146904",
+        "state_capital": "yes",
+        "website": "http://www.colima.gob.mx",
+        "wikipedia": "es:Colima (Colima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.720828,
+          19.2451909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273597039",
+      "properties": {
+        "@id": "node/273597039",
+        "admin_level": "8",
+        "name": "San Juan del Rio",
+        "place": "city",
+        "population": "138878",
+        "population:date": "2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9931982,
+          20.3867547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273601416",
+      "properties": {
+        "@id": "node/273601416",
+        "is_in": "Guanajuato, Mexico",
+        "name": "León",
+        "name:en": "León",
+        "name:ru": "Леон",
+        "name:uk": "Леон",
+        "place": "city",
+        "population": "1238962",
+        "population:date": "2010",
+        "wikidata": "Q189128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6825081,
+          21.1218598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273608650",
+      "properties": {
+        "@id": "node/273608650",
+        "ele": "1942",
+        "name": "Zitacuaro",
+        "place": "city",
+        "population": "155 534",
+        "wikipedia": "es:Heroica Zitácuaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3579538,
+          19.4371556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/273615025",
+      "properties": {
+        "@id": "node/273615025",
+        "addr:postcode": "88500",
+        "name": "Reynosa",
+        "place": "city",
+        "population": "608891",
+        "website": "http://www.reynosa.gob.mx/",
+        "wikidata": "Q738303",
+        "wikipedia": "es:Reynosa, Tamaulipas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2963932,
+          26.0704018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/279948657",
+      "properties": {
+        "@id": "node/279948657",
+        "is_in": "Solidaridad, Quintana Roo, México",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Playa del Carmen",
+        "name:ko": "플라야 델 카르멘",
+        "name:ru": "Плая-дель-Кармен",
+        "place": "city",
+        "wikidata": "Q989988",
+        "wikipedia": "en:Playa del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.075658,
+          20.628223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/288369855",
+      "properties": {
+        "@id": "node/288369855",
+        "alt_name": "Victoria de Durango",
+        "designation": "Capital",
+        "int_name": "Durango",
+        "is_in": "Durango, Mexico",
+        "name": "Durango",
+        "name:en": "Durango",
+        "name:es": "Victoria de Durango",
+        "name:pl": "Durango",
+        "name:ru": "Виктория-де-Дуранго",
+        "name:uk": "Дуранґо",
+        "official_name": "Victoria de Durango",
+        "old_name": "Tepēhuahcān",
+        "place": "city",
+        "population": "582267",
+        "state_capital": "yes",
+        "wikipedia": "es:Victoria de Durango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6702594,
+          24.0244371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/289795051",
+      "properties": {
+        "@id": "node/289795051",
+        "ele": "20",
+        "is_in": "Yucatan;México",
+        "name": "Tizimin",
+        "place": "city",
+        "population": "46971",
+        "website": "http://tizimin.gob.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1526452,
+          21.1430479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/290746327",
+      "properties": {
+        "@id": "node/290746327",
+        "is_in": "Mexico, Zacatecas",
+        "name": "Fresnillo",
+        "name:ru": "Фреснильо",
+        "place": "city",
+        "population": "120944",
+        "population:date": "2010",
+        "website": "http://www.fresnillo.gob.mx/",
+        "wikidata": "Q1816543",
+        "wikipedia": "en:Fresnillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8697204,
+          23.174353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/291755065",
+      "properties": {
+        "@id": "node/291755065",
+        "ele": "1171",
+        "name": "Delicias",
+        "name:ru": "Делисьяс",
+        "place": "city",
+        "population": "118071",
+        "ref": "080210001",
+        "website": "http://www.delicias.gob.mx/",
+        "wikidata": "Q1962715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.471851,
+          28.1951609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292474264",
+      "properties": {
+        "@id": "node/292474264",
+        "addr:postcode": "79000",
+        "name": "Ciudad Valles",
+        "place": "city",
+        "population": "167713",
+        "website": "http://vallesslp.gob.mx/",
+        "wikipedia": "es:Ciudad Valles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0102967,
+          21.9916551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/292479580",
+      "properties": {
+        "@id": "node/292479580",
+        "alt_name": "Victoria",
+        "is_in": "Tamaulipas, Mexico",
+        "name": "Ciudad Victoria",
+        "name:en": "Ciudad Victoria",
+        "name:es": "Ciudad Victoria",
+        "name:pl": "Ciudad Victoria",
+        "name:ru": "Сьюдад-Виктория",
+        "name:uk": "Сьюдад-Вікторія",
+        "place": "city",
+        "state_capital": "yes",
+        "wikipedia": "es:Ciudad Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1419341,
+          23.7439573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293525857",
+      "properties": {
+        "@id": "node/293525857",
+        "is_in": "Mexico, Chihuahua",
+        "name": "Hidalgo del Parral",
+        "name:ru": "Идальго-дель-Парраль",
+        "place": "city",
+        "population": "104836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6637016,
+          26.9331194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/293980795",
+      "properties": {
+        "@id": "node/293980795",
+        "name": "Lázaro Cárdenas",
+        "place": "city",
+        "population": "79200",
+        "population:date": "2010",
+        "ref:LOCODE": "MXLZC",
+        "source:population": "INEGI 2010",
+        "wikidata": "Q1785340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.198659,
+          17.9594769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/295899291",
+      "properties": {
+        "@id": "node/295899291",
+        "is_in": "Mexico,Yucatan",
+        "name": "Motul",
+        "place": "city",
+        "wikidata": "Q944292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2829902,
+          21.0948647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/296376831",
+      "properties": {
+        "@id": "node/296376831",
+        "addr:postcode": "31700",
+        "is_in": "Chihuahua, Mexico",
+        "name": "Nuevo Casas Grandes",
+        "place": "city",
+        "population": "59337",
+        "website": "http://www.nuevocasasgrandes.gob.mx/",
+        "wikidata": "Q1858936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9140989,
+          30.4165298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/296889512",
+      "properties": {
+        "@id": "node/296889512",
+        "is_in": "Tamaulipas, México",
+        "name": "Matamoros",
+        "name:en": "Matamoros",
+        "name:ru": "Матаморос",
+        "name:uk": "Матаморос",
+        "place": "city",
+        "wikidata": "Q738353",
+        "wikipedia": "es:Matamoros, Tamaulipas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5066758,
+          25.8704735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297154255",
+      "properties": {
+        "@id": "node/297154255",
+        "is_in": "Coahuila, México",
+        "name": "Piedras Negras",
+        "name:ru": "Пьедрас-Неграс",
+        "place": "city",
+        "population": "150178",
+        "website": "http://www.piedrasnegras.gob.mx/",
+        "wikidata": "Q1856408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5219222,
+          28.7019602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297158551",
+      "properties": {
+        "@id": "node/297158551",
+        "is_in": "Tamaulipas, México",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Nuevo Laredo",
+        "name:en": "Nuevo Laredo",
+        "name:ru": "Нуэво-Ларедо",
+        "place": "city",
+        "population": "374000",
+        "ref:LOCODE": "MXNLD",
+        "wikipedia": "en:Nuevo Laredo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5046097,
+          27.4933612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/297172944",
+      "properties": {
+        "@id": "node/297172944",
+        "addr:postcode": "31500",
+        "alt_name": "Ciudad Cuauhtémoc",
+        "is_in": "Chihuahua, México",
+        "name": "Cuauhtémoc",
+        "name:ru": "Сьюдад-Куаутемок",
+        "old_name": "San Antonio de los Arenales",
+        "place": "city",
+        "population": "114007",
+        "wikipedia": "es:Ciudad Cuauhtémoc (Chihuahua)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8659859,
+          28.4072325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299207656",
+      "properties": {
+        "@id": "node/299207656",
+        "is_in": "Coahuila, México",
+        "name": "Ciudad Acuña",
+        "place": "city",
+        "wikipedia": "en:Ciudad Acuña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9358781,
+          29.3182044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/299491891",
+      "properties": {
+        "@id": "node/299491891",
+        "is_in": "Sonora, México",
+        "name": "Agua Prieta",
+        "name:en": "Agua Prieta",
+        "name:ru": "Агуа-Приета",
+        "place": "city",
+        "population": "70303",
+        "wikidata": "Q397759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5491313,
+          31.3245934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/303079568",
+      "properties": {
+        "@id": "node/303079568",
+        "is_in": "Baja California Sur, Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Cabo San Lucas",
+        "name:en": "Cabo San Lucas",
+        "name:ru": "Кабо-Сан-Лукас",
+        "name:uk": "Кабо-Сан-Лукас",
+        "place": "city",
+        "wikidata": "Q1020776",
+        "wikipedia": "en:Cabo San Lucas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9111325,
+          22.8938107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/308011053",
+      "properties": {
+        "@id": "node/308011053",
+        "alt_name": "Jose Mariano Jimenez",
+        "ele": "1380",
+        "is_in": "Chihuahua, México",
+        "is_in:continent": "North America",
+        "name": "Jiménez",
+        "old_name": "Huejoquilla",
+        "place": "city",
+        "population": "34281",
+        "ref": "080360001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9141004,
+          27.1308577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/316791163",
+      "properties": {
+        "@id": "node/316791163",
+        "is_in": "Nogales,Sonora, México",
+        "name": "Heroica Nogales",
+        "name:ru": "Эройка-Ногалес",
+        "place": "city",
+        "wikipedia": "en:Nogales, Sonora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9524142,
+          31.323557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/321796693",
+      "properties": {
+        "@id": "node/321796693",
+        "is_in": "Yucatán,México,North America",
+        "name": "Izamal",
+        "name:ru": "Исамаль",
+        "name:uk": "Ісамаль",
+        "place": "city",
+        "wikidata": "Q1020762",
+        "wikipedia": "es:Izamal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.017001,
+          20.933072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/324351668",
+      "properties": {
+        "@id": "node/324351668",
+        "is_in": "Chiapas, México",
+        "name": "Tapachula",
+        "name:en": "Tapachula",
+        "name:hu": "Tapachula",
+        "name:ru": "Тапачула",
+        "name:uk": "Тапачула",
+        "place": "city",
+        "population": "202672",
+        "wikidata": "Q988225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2649713,
+          14.9099409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333132844",
+      "properties": {
+        "@id": "node/333132844",
+        "addr:postcode": "83400",
+        "is_in": "San Luis Rio Colorado,Sonora,Mexico",
+        "is_in:continent": "North America",
+        "name": "San Luis Rio Colorado",
+        "place": "city",
+        "population": "178380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7575,
+          32.4726666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333132849",
+      "properties": {
+        "@id": "node/333132849",
+        "addr:postcode": "83600",
+        "alt_name": "Caborca",
+        "is_in": "Hermosillo,Sonora,Mexico",
+        "is_in:continent": "North America",
+        "name": "Heroica Caborca",
+        "name:ru": "Эройка-Каборка",
+        "place": "city",
+        "population": "69516",
+        "website": "http://www.caborca.gob.mx/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1555,
+          30.7093333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333154553",
+      "properties": {
+        "@id": "node/333154553",
+        "addr:postcode": "83550",
+        "is_in": "Sonora,Mexico",
+        "is_in:continent": "North America",
+        "name": "Puerto Peñasco",
+        "place": "city",
+        "population": "56756",
+        "wikidata": "Q746968",
+        "wikipedia": "es:Puerto Peñasco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.540081,
+          31.311702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/333154585",
+      "properties": {
+        "@id": "node/333154585",
+        "is_in": "San Luis Rio Colorado,Sonora,Mexico",
+        "name": "Golfo de Santa Clara",
+        "place": "city",
+        "wikidata": "Q5882441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.494228,
+          31.687739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/353952268",
+      "properties": {
+        "@id": "node/353952268",
+        "is_in": "Guanajuato, México",
+        "name": "Moroleón",
+        "place": "city",
+        "wikidata": "Q605127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1917316,
+          20.1305681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354931165",
+      "properties": {
+        "@id": "node/354931165",
+        "is_in": "Mexicali",
+        "name": "San Felipe",
+        "name:en": "San Felipe",
+        "name:ru": "Сан-Фелипе",
+        "place": "city",
+        "wikidata": "Q586007",
+        "wikipedia": "en:San Felipe, Baja California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.837637,
+          31.023664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448081499",
+      "properties": {
+        "@id": "node/448081499",
+        "name": "Izúcar de Matamoros",
+        "place": "city",
+        "population": "43006",
+        "source:population": "INEGI 2010",
+        "wikidata": "Q2686100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.465278,
+          18.602778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/448088952",
+      "properties": {
+        "@id": "node/448088952",
+        "name": "Tehuacán",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3903616,
+          18.4599877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/459391798",
+      "properties": {
+        "@id": "node/459391798",
+        "is_in": "Tula de Allende, Hidalgo, México",
+        "name": "Tula de Allende",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.342778,
+          20.054722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472255714",
+      "properties": {
+        "@id": "node/472255714",
+        "is_in": "Veracruz, Veracruz, México",
+        "name": "Veracruz",
+        "name:en": "Veracruz",
+        "name:ru": "Веракрус",
+        "name:uk": "Веракрус",
+        "place": "city",
+        "population": "428323",
+        "ref:LOCODE": "MXVER",
+        "source:population": "INEGI 2010",
+        "state_capital": "no",
+        "wikidata": "Q173270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1385688,
+          19.2002198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472255717",
+      "properties": {
+        "@id": "node/472255717",
+        "is_in": "Poza Rica de Hidalgo, Veracruz, México",
+        "name": "Poza Rica de Hidalgo",
+        "name:ru": "Поса-Рика-де-Идальго",
+        "official_name": "Poza Rica de Hidalgo",
+        "place": "city",
+        "population": "193311",
+        "short_name": "Poza Rica",
+        "website": "www.pozaricaveracruz.gob.mx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4594114,
+          20.525151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472255718",
+      "properties": {
+        "@id": "node/472255718",
+        "is_in": "Córdoba, Veracruz, México",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Córdoba",
+        "old_name": "H.Córdoba,Ver.",
+        "place": "city",
+        "wikidata": "Q989492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9352891,
+          18.8944704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472255719",
+      "properties": {
+        "@id": "node/472255719",
+        "is_in": "Orizaba, Veracruz, México",
+        "name": "Orizaba",
+        "place": "city",
+        "wikidata": "Q993904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.103611,
+          18.849722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472255720",
+      "properties": {
+        "@id": "node/472255720",
+        "is_in": "Veracruz, México",
+        "name": "Minatitlán",
+        "place": "city",
+        "population": "112046",
+        "wikidata": "Q991006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5585868,
+          17.9892513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472257764",
+      "properties": {
+        "@id": "node/472257764",
+        "designation": "Municipio",
+        "is_in": "Fortín, Veracruz, México",
+        "name": "Fortín de las Flores",
+        "place": "city",
+        "source": "survey",
+        "wikidata": "Q2652472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9981395,
+          18.8989095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/472257786",
+      "properties": {
+        "@id": "node/472257786",
+        "is_in": "Santiago Tuxtla, Veracruz, México",
+        "name": "Santiago Tuxtla",
+        "place": "city",
+        "wikidata": "Q4769997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3024108,
+          18.4653964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/611897092",
+      "properties": {
+        "@id": "node/611897092",
+        "is_in": "Coahuila, Mexico",
+        "name": "Saltillo",
+        "name:en": "Saltillo",
+        "name:es": "Saltillo",
+        "name:pl": "Saltillo",
+        "name:ru": "Сальтильо",
+        "name:uk": "Сальтільйо",
+        "place": "city",
+        "population": "709761",
+        "state_capital": "yes",
+        "wikipedia": "es:Saltillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9945068,
+          25.4192971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/747101009",
+      "properties": {
+        "@id": "node/747101009",
+        "addr:postcode": "25700",
+        "is_in": "Coahuila, México",
+        "name": "Monclova",
+        "name:es": "Monclova",
+        "name:ru": "Монклова",
+        "place": "city",
+        "population": "215271",
+        "website": "http://www.monclova.gob.mx/",
+        "wikidata": "Q990007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4165916,
+          26.9007929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/959618169",
+      "properties": {
+        "@id": "node/959618169",
+        "is_in": "Veracruz, México",
+        "name": "Xalapa",
+        "name:en": "Xalapa",
+        "name:es": "Xalapa-Enríquez",
+        "name:pl": "Xalapa-Enríquez",
+        "name:ru": "Халапа-Энрикес",
+        "name:uk": "Халапа",
+        "official_name": "Xalapa de Enríquez",
+        "old_name": "Xālāpan",
+        "place": "city",
+        "population": "457928",
+        "ref:LOCODE": "MXJAL",
+        "source:population": "INEGI Censo de Población y Vivienda 2010",
+        "state_capital": "yes",
+        "wikidata": "Q221051",
+        "wikipedia": "es:Xalapa-Enríquez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9238793,
+          19.5274085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1038661889",
+      "properties": {
+        "@id": "node/1038661889",
+        "name": "Guadalupe",
+        "place": "city",
+        "wikidata": "Q938835"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2596645,
+          25.6773375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1105499210",
+      "properties": {
+        "@id": "node/1105499210",
+        "is_in": "Aguascalientes",
+        "name": "Jesús María",
+        "place": "city",
+        "population": "44000",
+        "website": "www.jesusmaria.gob.mx",
+        "wikidata": "Q1150239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3441657,
+          21.9620807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1139762556",
+      "properties": {
+        "@id": "node/1139762556",
+        "name": "Río Bravo",
+        "place": "city",
+        "wikipedia": "es:Río Bravo (Tamaulipas)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0976088,
+          25.9869955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1168572324",
+      "properties": {
+        "@id": "node/1168572324",
+        "is_in": "Veracruz, México, North America",
+        "is_in:country": "México",
+        "name": "Coatzacoalcos",
+        "name:ru": "Коацакоалькос",
+        "place": "city",
+        "population": "235983",
+        "wikidata": "Q502023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4501731,
+          18.1396787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1618366658",
+      "properties": {
+        "@id": "node/1618366658",
+        "name": "San Pedro Tlaquepaque",
+        "place": "city",
+        "population": "575942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3118477,
+          20.6396519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1663173902",
+      "properties": {
+        "@id": "node/1663173902",
+        "is_in": "Jalisco, Mexico",
+        "is_in:continent": "North America",
+        "is_in:country": "Mexico",
+        "is_in:country_code": "MX",
+        "name": "Guadalajara",
+        "name:en": "Guadalajara",
+        "name:es": "Guadalajara",
+        "name:pl": "Guadalajara",
+        "name:ru": "Гвадалахара",
+        "name:uk": "Ґвадалахара",
+        "place": "city",
+        "population": "1495182",
+        "ref:LOCODE": "MXGDL",
+        "state_capital": "yes",
+        "wikidata": "Q9022",
+        "wikipedia": "es:Guadalajara (Jalisco)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3469982,
+          20.676143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1668100219",
+      "properties": {
+        "@id": "node/1668100219",
+        "alt_name": "Zací",
+        "ele": "30",
+        "name": "Valladolid",
+        "place": "city",
+        "population": "48973",
+        "source:alt_name": "Local Knowledge Sep 2015",
+        "website": "http://valladolid.gob.mx/",
+        "wikidata": "Q1024731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2016999,
+          20.6902505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1688949658",
+      "properties": {
+        "@id": "node/1688949658",
+        "name": "Zapopan",
+        "place": "city",
+        "population": "1142483",
+        "wikidata": "Q147402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3911247,
+          20.7211036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1698247348",
+      "properties": {
+        "@id": "node/1698247348",
+        "ele": "1634 m",
+        "name": "Comitán de Dominguez",
+        "name:ru": "Комитан",
+        "place": "city",
+        "population": "141013",
+        "website": "www.comitan.gob.mx/",
+        "wikipedia": "es:Comitán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1379264,
+          16.2533231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1930669146",
+      "properties": {
+        "@id": "node/1930669146",
+        "addr:postcode": "33700",
+        "alt_name": "Ciudad Camargo",
+        "name": "Camargo",
+        "name:ru": "Сьюдад-Камарго",
+        "official_name": "Santa Rosalía de Camargo",
+        "place": "city",
+        "population": "48748",
+        "wikidata": "Q2528602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1706967,
+          27.6865753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1966018591",
+      "properties": {
+        "@id": "node/1966018591",
+        "addr:postcode": "28200",
+        "name": "Manzanillo",
+        "name:ru": "Мансанильо",
+        "place": "city",
+        "population": "161420",
+        "ref:LOCODE": "MXZLO",
+        "website": "http://www.manzanillo.gob.mx/",
+        "wikidata": "Q739908",
+        "wikipedia": "es:Manzanillo (Colima)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3159957,
+          19.0506256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2052329081",
+      "properties": {
+        "@id": "node/2052329081",
+        "addr:postcode": "48300",
+        "name": "Puerto Vallarta",
+        "name:ru": "Пуэрто-Вальярта",
+        "place": "city",
+        "population": "203342",
+        "website": "http://www.puertovallarta.gob.mx/",
+        "wikipedia": "es:Puerto Vallarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2338931,
+          20.6092244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2056386985",
+      "properties": {
+        "@id": "node/2056386985",
+        "name": "Kanasín",
+        "place": "city",
+        "population": "77240",
+        "wikidata": "Q613003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5577239,
+          20.9350466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2322620350",
+      "properties": {
+        "@id": "node/2322620350",
+        "name": "Guadalupe",
+        "place": "city",
+        "population": "124623",
+        "population:date": "2010",
+        "wikidata": "Q1961298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5161988,
+          22.7470359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2378060232",
+      "properties": {
+        "@id": "node/2378060232",
+        "name": "Celaya",
+        "place": "city",
+        "wikipedia": "es:Celaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8140016,
+          20.5218353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2457727053",
+      "properties": {
+        "@id": "node/2457727053",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1887051,
+          28.0951332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2530998038",
+      "properties": {
+        "@id": "node/2530998038",
+        "addr:postcode": "82000",
+        "ele": "10 msnm",
+        "is_in": "Sinaloa, Mexico",
+        "is_in:continent": "North America",
+        "is_in:state": "Sinaloa",
+        "name": "Mazatlán",
+        "name:en": "Mazatlán",
+        "name:ru": "Масатлан",
+        "place": "city",
+        "population": "438434",
+        "ref:LOCODE": "MXMZT",
+        "website": "http://wwv.mazatlan.gob.mx/",
+        "wikidata": "Q40194",
+        "wikipedia": "es:Mazatlán",
+        "wikipedia:en": "Mazatlán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4161919,
+          23.2234374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2818858284",
+      "properties": {
+        "@id": "node/2818858284",
+        "name": "Ciudad Madero",
+        "place": "city",
+        "population": "207216",
+        "wikipedia": "es:Ciudad Madero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.839731,
+          22.2485478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2851439474",
+      "properties": {
+        "@id": "node/2851439474",
+        "is_in": "Nayarit",
+        "name": "Tepic",
+        "name:en": "Tepic",
+        "name:es": "Tepic",
+        "name:pl": "Tepic",
+        "name:ru": "Тепик",
+        "name:uk": "Тепік",
+        "place": "city",
+        "population": "380249",
+        "state_capital": "yes",
+        "wikipedia": "es:Tepic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8946667,
+          21.5044414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3018852959",
+      "properties": {
+        "@id": "node/3018852959",
+        "ele": "379",
+        "name": "Heroica Ciudad de Ures",
+        "place": "city",
+        "population": "3894",
+        "postal_code": "84900",
+        "wikipedia": "es:Ures"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3884891,
+          29.4256694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3120750874",
+      "properties": {
+        "@id": "node/3120750874",
+        "ele": "1653",
+        "name": "Tonalá",
+        "place": "city",
+        "population": "408759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2421263,
+          20.6241367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3402675838",
+      "properties": {
+        "@id": "node/3402675838",
+        "name": "Ciudad del Carmen",
+        "place": "city",
+        "population": "169466",
+        "postal_code": "24100",
+        "website": "www.carmen.gob.mx",
+        "wikidata": "Q991435",
+        "wikipedia": "es:Ciudad del Carmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.81492,
+          18.651739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3738017964",
+      "properties": {
+        "@id": "node/3738017964",
+        "name": "Aldama",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0899808,
+          22.9203035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3994393614",
+      "properties": {
+        "@id": "node/3994393614",
+        "ele": "60",
+        "name": "Tierra Blanca",
+        "place": "city",
+        "population": "94087",
+        "wikipedia": "es:Tierra Blanca (Veracruz)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3549834,
+          18.4505255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4143719536",
+      "properties": {
+        "@id": "node/4143719536",
+        "name": "Gómez Palacio",
+        "place": "city",
+        "population": "327985",
+        "wikidata": "Q1775128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4997832,
+          25.568125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4143719537",
+      "properties": {
+        "@id": "node/4143719537",
+        "name": "Torreón",
+        "name:ru": "Торреон",
+        "place": "city",
+        "population": "639629",
+        "wikidata": "Q386991",
+        "wikipedia": "es:Torreón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.410513,
+          25.542698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4143721270",
+      "properties": {
+        "@id": "node/4143721270",
+        "name": "Ciudad Lerdo",
+        "place": "city",
+        "population": "141043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5252472,
+          25.536641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4145201092",
+      "properties": {
+        "@id": "node/4145201092",
+        "name": "Tijuana",
+        "name:ru": "Тихуана",
+        "place": "city",
+        "population": "1696923",
+        "wikidata": "Q124739",
+        "wikipedia": "es:Tijuana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9641657,
+          32.5008626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4145208823",
+      "properties": {
+        "@id": "node/4145208823",
+        "name": "Ciudad Juárez",
+        "place": "city",
+        "population": "1321004",
+        "wikidata": "Q26590",
+        "wikipedia": "es:Ciudad Juárez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4291102,
+          31.6546528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4145210488",
+      "properties": {
+        "@id": "node/4145210488",
+        "name": "Monterrey",
+        "place": "city",
+        "population": "1415512",
+        "wikidata": "Q81033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3178187,
+          25.6696566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4197354798",
+      "properties": {
+        "@id": "node/4197354798",
+        "name": "Santiago Tianguistenco",
+        "place": "city",
+        "wikidata": "Q2449561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4674661,
+          19.1809537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4392412822",
+      "properties": {
+        "@id": "node/4392412822",
+        "is_in": "Aguascalientes",
+        "name": "Aguascalientes",
+        "name:ru": "Агуаскальентес",
+        "place": "city",
+        "population": "753000",
+        "website": "http://www.aguascalientes.gob.mx",
+        "wikidata": "Q200805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2961323,
+          21.8806553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4431771365",
+      "properties": {
+        "@id": "node/4431771365",
+        "name": "Ciudad López Mateos",
+        "place": "city",
+        "population": "471904",
+        "wikidata": "Q1963483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2619928,
+          19.5614061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4546639415",
+      "properties": {
+        "@id": "node/4546639415",
+        "alt_name": "Benito Juárez",
+        "name": "Gabriel Leyva Solano",
+        "place": "city",
+        "wikidata": "Q18800799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6365897,
+          25.6620562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4563482608",
+      "properties": {
+        "@id": "node/4563482608",
+        "name": "Costa Rica",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.392356,
+          24.5924316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4578056228",
+      "properties": {
+        "@id": "node/4578056228",
+        "name": "Dimas (Estación Dimas)",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7787515,
+          23.7234262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4619077762",
+      "properties": {
+        "@id": "node/4619077762",
+        "name": "La Reforma",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0579923,
+          25.0837608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4690005147",
+      "properties": {
+        "@id": "node/4690005147",
+        "name": "Nuevo Progreso",
+        "place": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9518067,
+          26.0544108
+        ]
+      }
+    }
+  ]
+}

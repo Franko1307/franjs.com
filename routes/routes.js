@@ -7,9 +7,12 @@ module.exports = function (app) {
 		    res.render('genetic-algorithm/n-queen-problem');
 	  });
     app.get('/stuff', function(req,res){
-        res.render('links')
-    })
-
+        res.render('links');
+    });
+    app.get('/travel', function(req,res){
+        var myjson = require('../public/data/travel.json');
+        res.render('travel', {data:myjson.features});
+    });
     app.get('/ada-sort-algorithms',function(req,res){
         res.render('ada/s_algorithms');
     });
